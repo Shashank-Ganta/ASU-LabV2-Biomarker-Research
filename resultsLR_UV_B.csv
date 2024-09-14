@@ -1,0 +1,4 @@
+Threshold, ,      ,Disj 3,          ,,      ,Disj 10  ,          
+1.4, ,Recall,Precision             ,Specificty,,Recall,Precision,Specificty
+Average:            , ,0.8,0.634920635,0.54,,0.7,0.636363636,0.6
+Standard Deviation: , ,0.4,0.481452409,0.498397432,,0.458257569,0.481045693,0.489897949

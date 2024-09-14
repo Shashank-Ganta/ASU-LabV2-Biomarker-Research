@@ -1,0 +1,8 @@
+Method,Sensitivity,Specificity
+Baseline,0.12,0.16
+1 Biomarker,0.8200000000000001,0.08
+3 Biomarker,0.8999999999999999,0.12
+4 Biomarker,0.78,0.1
+10 Biomarker,0.52,0.26
+15 Biomarker,0.16,0.5800000000000001
+30 Biomarker,0.42,0.38
